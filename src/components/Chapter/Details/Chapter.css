@@ -1,0 +1,9 @@
+.table-chapter {
+    width: 100%;
+    table-layout: fixed
+}
+
+.table-chapter tr td {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}

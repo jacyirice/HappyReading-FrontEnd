@@ -1,0 +1,28 @@
+.search {
+    background-color: white;
+    border: 1px solid #30415D;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+.user {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    color: #0B132A;
+}
+
+.img-fluid {
+    padding-left: 10px;
+}
+
+a:hover,
+a:visited,
+a:focus,
+a:active {
+    text-decoration: none;
+    color: inherit;
+}

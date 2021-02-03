@@ -1,0 +1,60 @@
+.img-modal {
+    height: 281px;
+    margin-right: -2px;
+}
+
+.modal-lg {
+    max-width: 700px;
+}
+
+.popup h5 {
+    font-size: 18px;
+    letter-spacing: 0.4px;
+}
+
+.popup h4 {
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.8px;
+    color: #000000;
+}
+
+.popup h6 {
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.4px;
+    color: #000000;
+}
+
+.popup-resumo {
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.4px;
+    color: #000000;
+}
+
+.popup-title {
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    letter-spacing: 0.8px;
+    color: #333333;
+}
+
+.popup-desc {
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.57px;
+    color: #77838F;
+}
+
+.botao-inscricao {
+    margin-top: 4em;
+    margin: 4em auto 0 auto;
+    width: 35%;
+    background: #30415D;
+    border-radius: 10px;
+    box-shadow: 0px 10px 15px rgba(48, 65, 93, 0.35);
+    display: flex;
+    justify-content: center;
+}

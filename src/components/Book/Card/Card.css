@@ -1,0 +1,39 @@
+.topico {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    letter-spacing: 0.92px;
+}
+
+.topico-img {
+    margin-right: -1px;
+    width: 30%;
+}
+
+.topico-desc {
+    height: 115px;
+    width: 60%;
+}
+
+.topico-desc h4 {
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    letter-spacing: 0.8px;
+    color: #333333;
+}
+
+.topico-desc p {
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    letter-spacing: 0.57px;
+    color: #77838F;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    /* number of lines to show */
+    -webkit-box-orient: vertical;
+}
